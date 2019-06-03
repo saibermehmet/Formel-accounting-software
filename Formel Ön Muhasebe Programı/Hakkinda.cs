@@ -19,7 +19,7 @@ namespace Formel_Ön_Muhasebe_Programı
             this.labelVersion.Text = String.Format("Version {0}", AssemblyVersion);
             this.labelCopyright.Text = AssemblyCopyright;
             this.labelCompanyName.Text = AssemblyCompany;
-            this.textBoxDescription.Text = "Tüm Hakları Saklıdır. İzinsiz Kopyalanması ve Satılması Suç Teşkil Etmektedir!"; 
+            this.textBoxDescription.Text = "Open source accounting software."; 
         }
 
         #region Assembly Attribute Accessors
